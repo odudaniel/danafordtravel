@@ -128,7 +128,7 @@ body {
 }
 
 .box {
-	width: 25vw;
+	width: 27vw;
 	height: 190px;
 	margin-right: 2em;
 	background: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)), url(../img/bg_2.jpg);
@@ -144,7 +144,7 @@ body {
 }
 
 .box_2 {
-	width: 25vw;
+	width: 27vw;
 	height: 190px;
 	margin-right: 2em;
 	background: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)), url(../img/bg_3.jpg);
@@ -159,7 +159,7 @@ body {
 }
 
 .box_3 {
-	width: 25vw;
+	width: 27vw;
 	height: 190px;
 	margin-right: 2em;
 	background: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)), url(../img/bg_1.jpg);
